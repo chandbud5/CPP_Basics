@@ -25,6 +25,6 @@ int main()
     // above function will return index of first character in a string passed in find function
     // in this case we get index of first l
 
-    // to fetch substring from a string with index position start and end both inclusive
+    // to fetch substring from a string with index position start and length of substr
     cout << x.substr(1,3);
 }
